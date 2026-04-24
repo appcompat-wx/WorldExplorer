@@ -1,9 +1,0 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-	<PropertyGroup>
-		<TargetFramework>$(NetVersion)</TargetFramework>
-	</PropertyGroup>
-	<ItemGroup>
-		<ProjectReference Include="..\..\..\Common\WorldExplorer.Common.Application\WorldExplorer.Common.Application.csproj" />
-	</ItemGroup>
-
-</Project>

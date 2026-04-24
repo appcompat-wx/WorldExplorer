@@ -405,5 +405,8 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-*.[Dd]evelopment.json
-/src/Client/Client/AspireAppSettings.g.cs
+/src/WebApp/WorldExplorer.db
+/src/WebApp/WorldExplorer.db-shm
+/src/WebApp/WorldExplorer.db-wal
+/src/Client/appsettings.Development.json
+/src/WebApp/appsettings.Development.json

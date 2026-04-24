@@ -1,0 +1,13 @@
+﻿@inherits WorldExplorerBaseComponent
+@page "/"
+
+<PageTitle>@Constants.ProductName</PageTitle>
+
+<AuthorizeView>
+	<Authorized>
+		<WorldExplorerMap></WorldExplorerMap>
+	</Authorized>
+	<NotAuthorized>
+		<Promo/>
+	</NotAuthorized>
+</AuthorizeView>
